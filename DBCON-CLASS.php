@@ -27,8 +27,6 @@ class DBconnect {
         echo 'The class "', __CLASS__, '" was destroyed.<br />';
 	}
 
-
-
 }
 
 ?>
