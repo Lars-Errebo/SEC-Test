@@ -8,6 +8,7 @@
 	$sectestinsert = new DBCR;	
 	$DBCR->insert('test','1000','2014-01-01');
 	
+	echo "Just something";
 	
 	
 
